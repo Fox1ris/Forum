@@ -49,15 +49,9 @@ export default function Main() {
 
                 </div>
             </div>
-        <div className="ml-[650px] mt-5 bg-black h-7 w-40 text-center rounded-lg">
-            Логин/Регистрация
-        </div>
-
-
-
-
-
-
+            <div className="ml-[650px] mt-5 bg-black h-7 w-40 text-center rounded-lg">
+                Логин/Регистрация
+            </div>
         </div>
     )
 }
