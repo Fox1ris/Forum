@@ -1,8 +1,7 @@
 "use client"
 import React, {useState} from 'react';
-import Modal from 'react-modal';
-import {Dialog, DialogBackdrop, DialogPanel, DialogTitle} from "@headlessui/react";
-import {ExclamationTriangleIcon} from "@heroicons/react/24/outline";
+
+import {Dialog, DialogBackdrop, DialogPanel} from "@headlessui/react";
 
 export default function LoginMenu() {
     const [loginOpen, setLoginOpen] = useState(false);
