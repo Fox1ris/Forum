@@ -31,7 +31,7 @@ export default function LoginMenu() {
                             transition
                             className="h-100 rounded-lg opacity-40 bg-black text-left shadow-xl transition-all data-closed:translate-y-4 data-closed:opacity-0 data-enter:duration-300 data-enter:ease-out data-leave:duration-200 data-leave:ease-in sm:my-8 sm:w-80 sm:max-w-lg data-closed:sm:translate-y-0 data-closed:sm:scale-95"
                         >
-                            sosal
+                            sos
                         </DialogPanel>
                     </div>
                 </div>
